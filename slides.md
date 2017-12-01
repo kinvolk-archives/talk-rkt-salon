@@ -1,5 +1,5 @@
 <center>
-## rktlet and rkt as a Kubernetes CRI implementation
+## rktlet: rkt as a Kubernetes CRI implementation
 <img src="talk-rktlet/rkt-1.svg" width="100" />
 </center>
 ​
